@@ -57,3 +57,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #https://stackoverflow.com/questions/65479863/rails-6-1-ruby-3-0-0-tests-error-as-they-cannot-load-rexml
 gem 'rexml', '~> 3.2', '>= 3.2.4'
+gem 'bcrypt', '~> 3.1.7'
